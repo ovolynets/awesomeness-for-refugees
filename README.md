@@ -5,6 +5,7 @@
 
 **!! Увага !!** Колекція буде постійно оновлюватися і розширятися, тому заходьте і перевіряйте час від часу.
 
+
 ### Job search / _Пошук роботи_
 
 * https://www.jobaidukraine.com/
@@ -41,3 +42,6 @@ Facebook groups
 * Хаб.ua
   * [Instagram](https://www.instagram.com/resilience.hub.u.a)
   * [Facebook](https://www.facebook.com/resilience.hub.u.a)
+
+
+Чогось не вистачає? Заповни [цю форму](https://docs.google.com/forms/d/e/1FAIpQLSecFTM6L5tsFEDgfmxSzEMplG3YSja_ncb561XlC4RuOBJiQg/viewform?usp=sf_link).
