@@ -11,6 +11,6 @@
 * [Accommodation / _Пошук житла_](content/accommodation.md)
 * [Legal and country-specific resources / _Юридичні питання та оновлення за країнами_](content/legal.md)
 * [Miscellanious resources / _Інщі корисні ресурси_](content/misc.md)
-* [Ресурси для навчання / Education in the time of war](content/education.md)
+* [Education in the time of war / Ресурси для навчання](content/education.md)
 
 Чогось не вистачає? Додай ресурси [через цю форму](https://docs.google.com/forms/d/e/1FAIpQLSecFTM6L5tsFEDgfmxSzEMplG3YSja_ncb561XlC4RuOBJiQg/viewform?usp=sf_link), або просто поділися тим, що вважаєш віжним в ці часи. Дякую!

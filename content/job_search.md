@@ -6,7 +6,7 @@
 * https://sokolroom.com/
 * https://helpukrainians.jooble.org/
 * https://www.jobs4ukraine.eu/
-* [Various resources for Moldova]{https://dopomoga.gov.md)
+* [Various resources for Moldova](https://dopomoga.gov.md)
 * [Jobs for designers](https://gentle-stick-dcc.notion.site/4d022046c5324e4ab1f820eff6c22085)
 
 
