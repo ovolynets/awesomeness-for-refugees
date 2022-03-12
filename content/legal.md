@@ -7,6 +7,7 @@
 * [Beratung zu Asyl und Aufenthalt / Консультації на багатьох мовах](https://kub-berlin.org/de/angebote/beratung/asyl-und-aufenthalt/)
 * [Rechtsberatung für Geflüchtete / Правова допомога для біженців](https://www.rlc-berlin.org/)
 * [Telegram / UKRAINE-Refugee legal advice Germany - юридическая консультация](https://t.me/ukrasylumrefugee)
+* [Aufenthaltsrechtliche Fragen für Menschen aus der Ukraine in Deutschland](https://minor-kontor.de/aufenthaltsrechtliche-fragen-fuer-menschen-aus-der-ukraine-in-deutschland/)
 
 ### Luxembourg / Люксембург
 * [Access to the Luxembourg labour market for refugees from Ukraine](https://adem.public.lu/en/actualites/adem/2022/03/ukr.html)
