@@ -6,11 +6,12 @@
 * https://sokolroom.com/
 * https://helpukrainians.jooble.org/
 * https://www.jobs4ukraine.eu/
-* [Various resources for Moldova](https://dopomoga.gov.md)
+* https://happymonday.ua/jobs-search
+* https://youthful-plant-07b.notion.site/Help-with-work-71deeb69a45b4ce9b26efc5eff741a73
 * [Jobs for designers](https://gentle-stick-dcc.notion.site/4d022046c5324e4ab1f820eff6c22085)
 
 
-### IT-related regular portals / _Портали пошуку, орієнтовані на ІТ_
+## IT-related regular portals / _Портали пошуку, орієнтовані на ІТ_
 * https://linkedin.com
 * https://xing.com (mostly for Germany)
 * https://stepstone.de (mostly for Germany)
@@ -27,3 +28,7 @@
 ## Telegram
 * https://t.me/jobsforuaingermany
 * https://t.me/uajobnow
+
+## Jobs in science
+Please check [Jobs in Science](science.md) link directly.
+
