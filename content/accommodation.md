@@ -7,3 +7,4 @@
 * https://airbnb.org - Некомерційна частина порталу https://airbnb.com, яка також допомагаі біженцям.
 * https://prykhystok.in.ua/find --> World (також працює і по Україні)
 * [Offering refugees a safe place to stay](https://www.host4ukraine.com/)
+* [Пошук в Румунії](https://www.imobiliare.ro/)

@@ -3,16 +3,16 @@
 
 **UKR** Підібрана колекція ресурсів ("Awesomeness") для пошуку роботи, проживання, допомоги та інших подібних ресурсів.
 
-**!! Увага !!** Колекція буде постійно оновлюватися і розширятися, тому заходьте і перевіряйте час від часу. Всі лінки були особисто перевірені, проте гарантій про їхній контент не дається.
+**!! Увага !!** Колекція буде постійно оновлюватися і розширятися, тому заходьте і перевіряйте час від часу. Не всі лінки вдається перевірити, проте джерела лінків офіційні. Гарантій щодо контенту не дається. Деякі ресурси можуть повторюватися, адже вони існують як для, наприклад, освіти, так і для пошуку житла, тому перевіряете все сторінки, особливо [ресурси за країнами](content/by_country.md)
 
 ### Ресурси
 
 * [Job search + Science / _Пошук роботи, також в науці_](content/job_search.md)
 * [Accommodation / _Пошук житла_](content/accommodation.md)
-* [Legal and country-specific resources / _Юридичні питання та оновлення за країнами_](content/legal.md)
+* [Country-specific resources and legal / _ Ресурси за країнами та юридичні питання_](content/by_country.md)
 * [Education for children in the time of war / _Ресурси для навчання дітей_](content/education_children.md)
 * [Education for adults / _Ресурси для навчання дорослих_](content/education_adults.md)
-* [Medical support / ](content/medical.md)
+* [Medical support / _медична допомога_](content/medical.md)
 * [Miscellanious resources / _Інщі корисні ресурси_](content/misc.md)
 
 
