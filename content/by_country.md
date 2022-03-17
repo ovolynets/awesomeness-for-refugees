@@ -112,5 +112,8 @@ Telegram:
 ### Латвія
 * [З України у Латвію](https://www.ukraine-latvia.com/uk)
 
+### Canada / _Канада_
+* [Canada launches new temporary residence pathway to welcome those fleeing the war in Ukraine](https://www.canada.ca/en/immigration-refugees-citizenship/news/2022/03/canada-launches-new-temporary-residence-pathway-to-welcome-those-fleeing-the-war-in-ukraine.html)
+
 ### Україна
 * https://t.me/refugeesinUkraineто
