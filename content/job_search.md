@@ -12,6 +12,9 @@
 
 
 ## IT-related regular portals / _Портали пошуку, орієнтовані на ІТ_
+* [Honeypot](https://www.linkedin.com/posts/honeypotio_cv-and-interview-advice-for-those-affected-activity-6911665471935102976-3y_2/)
+
+Загальні ресурси пошуку:
 * https://linkedin.com
 * https://xing.com (mostly for Germany)
 * https://stepstone.de (mostly for Germany)

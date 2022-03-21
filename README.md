@@ -9,11 +9,12 @@
 ### Ресурси
 
 * [Job search + Science / _Пошук роботи, також в науці_](content/job_search.md)
+  * [Jobs, fast track / _Отримання робота в ІТ за скороченим процесом_](content/jobs_fasttrack.md)
 * [Accommodation / _Пошук житла_](content/accommodation.md)
 * [Country-specific resources and legal / _Ресурси за країнами та юридичні питання_](content/by_country.md)
 * [Education for children in the time of war / _Ресурси для навчання дітей_](content/education_children.md)
 * [Education for adults / _Ресурси для навчання дорослих_](content/education_adults.md)
-* [Medical support / _медична допомога_](content/medical.md)
+* [Medical support / _Медична допомога_](content/medical.md)
 * [Miscellanious resources / _Інщі корисні ресурси_](content/misc.md)
 
 
