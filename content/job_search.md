@@ -9,6 +9,7 @@
 * https://happymonday.ua/jobs-search
 * https://youthful-plant-07b.notion.site/Help-with-work-71deeb69a45b4ce9b26efc5eff741a73
 * [Jobs for designers](https://gentle-stick-dcc.notion.site/4d022046c5324e4ab1f820eff6c22085)
+* [Робота в Данії, портал також українською](https://www.jobindex.dk/cms/jobs-for-ukraine-jobseekers-ukr)
 
 
 ## IT-related regular portals / _Портали пошуку, орієнтовані на ІТ_
